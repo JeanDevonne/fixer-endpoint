@@ -1,0 +1,23 @@
+body{
+    font-size: 16px;
+}
+.btn {
+    background: linear-gradient(145deg, #fdd41e, #ffb61a);
+    border: 0;
+    border-radius: 4px;
+    color: black;
+    cursor: pointer;
+    display: block;
+    font-weight: bold;
+    font-size: 1em;
+    letter-spacing: .01em;
+    margin: 0 auto;
+    margin-top: 5em;
+    padding: 1.2em 2em;
+  }
+  
+.price {
+    margin: 60px auto 0;
+    font-size: 5em;
+    text-align: center;
+}
