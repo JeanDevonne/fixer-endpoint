@@ -15,9 +15,15 @@ body{
     margin-top: 5em;
     padding: 1.2em 2em;
   }
-  
+.btn:hover {
+    transition: .2s;
+    opacity: .8;
+}
 .price {
     margin: 60px auto 0;
     font-size: 5em;
     text-align: center;
+}
+* {
+    outline: none;
 }
